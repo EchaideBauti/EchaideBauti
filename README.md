@@ -13,6 +13,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EchaideBauti&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+    Email: echaide.bautista.ofi@gmail.com
+    Telefono: 3416361954
 </div>
 </head>
 
