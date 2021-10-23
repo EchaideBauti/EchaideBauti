@@ -7,7 +7,7 @@
     <h2>Full Stack Developer</h2>
     <h3>Soy desarrollador fullstack en javaScript, tengo manejo de distintas librerías y frameworks, me apasiona investigar y aprender.
     </h3>
-    <h3>JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize</h3>
+    <h3>JavaScript | React | Redux | Node.JS | HTML | CSS | Sass | SQL | Express | PostgreeSQL | Sequelize | MongoDB</h3>
 
 ![EchaideBauti's GitHub stats](https://github-readme-stats.vercel.app/api?username=EchaideBauti&theme=gotham&show_icons=true)
 
